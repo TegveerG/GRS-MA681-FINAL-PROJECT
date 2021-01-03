@@ -1,0 +1,856 @@
+"","Department","Facility","Fuel","Year","Emission"
+"1","Arts, Tourism and Special events","Buildings","Electricity",2007,202
+"2","Arts, Tourism and Special events","Buildings","Electricity",2008,133
+"3","Arts, Tourism and Special events","Buildings","Electricity",2009,180
+"4","Arts, Tourism and Special events","Buildings","Electricity",2010,188
+"5","Arts, Tourism and Special events","Buildings","Electricity",2011,218
+"6","Arts, Tourism and Special events","Buildings","Electricity",2012,312
+"7","Arts, Tourism and Special events","Buildings","Electricity",2013,367
+"8","Arts, Tourism and Special events","Buildings","Electricity",2014,175
+"9","Arts, Tourism and Special events","Buildings","Electricity",2015,190
+"10","Arts, Tourism and Special events","Buildings","Natural Gas",2009,332
+"11","Arts, Tourism and Special events","Buildings","Natural Gas",2010,316
+"12","Arts, Tourism and Special events","Buildings","Natural Gas",2011,320
+"13","Arts, Tourism and Special events","Buildings","Natural Gas",2012,203
+"14","Arts, Tourism and Special events","Buildings","Natural Gas",2013,326
+"15","Arts, Tourism and Special events","Vehicles","Gasoline",2008,390
+"16","Arts, Tourism and Special events","Vehicles","Gasoline",2009,520
+"17","Arts, Tourism and Special events","Vehicles","Gasoline",2010,473
+"18","Arts, Tourism and Special events","Vehicles","Gasoline",2011,557
+"19","Arts, Tourism and Special events","Vehicles","Gasoline",2012,473
+"20","Arts, Tourism and Special events","Vehicles","Gasoline",2013,520
+"21","Boston Public Schools","Buildings","Electricity",2005,414
+"22","Boston Public Schools","Buildings","Electricity",2006,365
+"23","Boston Public Schools","Buildings","Electricity",2007,362
+"24","Boston Public Schools","Buildings","Electricity",2008,366
+"25","Boston Public Schools","Buildings","Electricity",2009,319
+"26","Boston Public Schools","Buildings","Electricity",2010,209
+"27","Boston Public Schools","Buildings","Electricity",2011,197
+"28","Boston Public Schools","Buildings","Electricity",2012,173
+"29","Boston Public Schools","Buildings","Electricity",2013,165
+"30","Boston Public Schools","Buildings","Electricity",2014,164
+"31","Boston Public Schools","Buildings","Electricity",2015,199
+"32","Boston Public Schools","Buildings","Electricity",2016,198
+"33","Boston Public Schools","Buildings","Electricity",2017,147
+"34","Boston Public Schools","Buildings","Electricity",2018,185
+"35","Boston Public Schools","Buildings","Fuel Oil",2008,502
+"36","Boston Public Schools","Buildings","Fuel Oil",2009,462
+"37","Boston Public Schools","Buildings","Fuel Oil",2010,467
+"38","Boston Public Schools","Buildings","Fuel Oil",2011,618
+"39","Boston Public Schools","Buildings","Fuel Oil",2012,514
+"40","Boston Public Schools","Buildings","Fuel Oil",2013,545
+"41","Boston Public Schools","Buildings","Fuel Oil",2014,128
+"42","Boston Public Schools","Buildings","Fuel Oil",2015,1
+"43","Boston Public Schools","Buildings","Fuel Oil",2016,434
+"44","Boston Public Schools","Buildings","Fuel Oil",2017,507
+"45","Boston Public Schools","Buildings","Fuel Oil",2018,550
+"46","Boston Public Schools","Buildings","Natural Gas",2005,444
+"47","Boston Public Schools","Buildings","Natural Gas",2006,436
+"48","Boston Public Schools","Buildings","Natural Gas",2007,452
+"49","Boston Public Schools","Buildings","Natural Gas",2008,427
+"50","Boston Public Schools","Buildings","Natural Gas",2009,435
+"51","Boston Public Schools","Buildings","Natural Gas",2010,425
+"52","Boston Public Schools","Buildings","Natural Gas",2011,454
+"53","Boston Public Schools","Buildings","Natural Gas",2012,426
+"54","Boston Public Schools","Buildings","Natural Gas",2013,453
+"55","Boston Public Schools","Buildings","Natural Gas",2014,456
+"56","Boston Public Schools","Buildings","Natural Gas",2015,455
+"57","Boston Public Schools","Buildings","Natural Gas",2016,415
+"58","Boston Public Schools","Buildings","Natural Gas",2017,424
+"59","Boston Public Schools","Buildings","Natural Gas",2018,446
+"60","Boston Public Schools","Vehicles","Diesel",2005,137
+"61","Boston Public Schools","Vehicles","Diesel",2006,138
+"62","Boston Public Schools","Vehicles","Diesel",2007,151
+"63","Boston Public Schools","Vehicles","Diesel",2008,153
+"64","Boston Public Schools","Vehicles","Diesel",2009,152
+"65","Boston Public Schools","Vehicles","Diesel",2010,136
+"66","Boston Public Schools","Vehicles","Diesel",2011,150
+"67","Boston Public Schools","Vehicles","Diesel",2012,149
+"68","Boston Public Schools","Vehicles","Diesel",2013,154
+"69","Boston Public Schools","Vehicles","Diesel",2014,162
+"70","Boston Public Schools","Vehicles","Diesel",2015,148
+"71","Boston Public Schools","Vehicles","Diesel",2016,122
+"72","Boston Public Schools","Vehicles","Diesel",2017,111
+"73","Boston Public Schools","Vehicles","Diesel",2017,656
+"74","Boston Public Schools","Vehicles","Gasoline",2005,214
+"75","Boston Public Schools","Vehicles","Gasoline",2006,214
+"76","Boston Public Schools","Vehicles","Gasoline",2007,389
+"77","Boston Public Schools","Vehicles","Gasoline",2008,440
+"78","Boston Public Schools","Vehicles","Gasoline",2009,429
+"79","Boston Public Schools","Vehicles","Gasoline",2010,422
+"80","Boston Public Schools","Vehicles","Gasoline",2011,419
+"81","Boston Public Schools","Vehicles","Gasoline",2012,439
+"82","Boston Public Schools","Vehicles","Gasoline",2013,378
+"83","Boston Public Schools","Vehicles","Gasoline",2014,516
+"84","Boston Public Schools","Vehicles","Gasoline",2015,129
+"85","Boston Public Schools","Vehicles","Gasoline",2016,313
+"86","Boston Public Schools","Vehicles","Gasoline",2017,376
+"87","Boston Public Schools","Vehicles","Gasoline",2018,346
+"88","Boston Public Schools","Vehicles","Propane",2016,193
+"89","Boston Public Schools","Vehicles","Propane",2017,500
+"90","Boston Public Schools","Vehicles","Propane",2018,534
+"91","Center for Youth and Families","Buildings","Electricity",2005,43
+"92","Center for Youth and Families","Buildings","Electricity",2006,53
+"93","Center for Youth and Families","Buildings","Electricity",2007,46
+"94","Center for Youth and Families","Buildings","Electricity",2008,65
+"95","Center for Youth and Families","Buildings","Electricity",2009,68
+"96","Center for Youth and Families","Buildings","Electricity",2010,58
+"97","Center for Youth and Families","Buildings","Electricity",2011,49
+"98","Center for Youth and Families","Buildings","Electricity",2012,29
+"99","Center for Youth and Families","Buildings","Electricity",2013,42
+"100","Center for Youth and Families","Buildings","Electricity",2014,44
+"101","Center for Youth and Families","Buildings","Electricity",2015,51
+"102","Center for Youth and Families","Buildings","Electricity",2016,41
+"103","Center for Youth and Families","Buildings","Electricity",2017,132
+"104","Center for Youth and Families","Buildings","Electricity",2018,158
+"105","Center for Youth and Families","Buildings","Natural Gas",2005,286
+"106","Center for Youth and Families","Buildings","Natural Gas",2006,283
+"107","Center for Youth and Families","Buildings","Natural Gas",2007,263
+"108","Center for Youth and Families","Buildings","Natural Gas",2008,269
+"109","Center for Youth and Families","Buildings","Natural Gas",2009,274
+"110","Center for Youth and Families","Buildings","Natural Gas",2010,275
+"111","Center for Youth and Families","Buildings","Natural Gas",2011,261
+"112","Center for Youth and Families","Buildings","Natural Gas",2012,232
+"113","Center for Youth and Families","Buildings","Natural Gas",2013,236
+"114","Center for Youth and Families","Buildings","Natural Gas",2014,266
+"115","Center for Youth and Families","Buildings","Natural Gas",2015,264
+"116","Center for Youth and Families","Buildings","Natural Gas",2016,232
+"117","Center for Youth and Families","Buildings","Natural Gas",2017,331
+"118","Center for Youth and Families","Buildings","Natural Gas",2018,333
+"119","Center for Youth and Families","Vehicles","Diesel",2008,2
+"120","Center for Youth and Families","Vehicles","Diesel",2009,473
+"121","Center for Youth and Families","Vehicles","Diesel",2010,473
+"122","Center for Youth and Families","Vehicles","Diesel",2011,146
+"123","Center for Youth and Families","Vehicles","Diesel",2012,557
+"124","Center for Youth and Families","Vehicles","Diesel",2013,109
+"125","Center for Youth and Families","Vehicles","Diesel",2014,557
+"126","Center for Youth and Families","Vehicles","Gasoline",2008,114
+"127","Center for Youth and Families","Vehicles","Gasoline",2009,106
+"128","Center for Youth and Families","Vehicles","Gasoline",2010,106
+"129","Center for Youth and Families","Vehicles","Gasoline",2011,107
+"130","Center for Youth and Families","Vehicles","Gasoline",2012,635
+"131","Center for Youth and Families","Vehicles","Gasoline",2013,580
+"132","Center for Youth and Families","Vehicles","Gasoline",2014,596
+"133","Emergency Medical Services","Buildings","Electricity",2005,166
+"134","Emergency Medical Services","Buildings","Electricity",2006,128
+"135","Emergency Medical Services","Buildings","Electricity",2007,205
+"136","Emergency Medical Services","Buildings","Electricity",2008,310
+"137","Emergency Medical Services","Buildings","Electricity",2009,310
+"138","Emergency Medical Services","Buildings","Electricity",2010,219
+"139","Emergency Medical Services","Buildings","Electricity",2011,177
+"140","Emergency Medical Services","Buildings","Electricity",2012,189
+"141","Emergency Medical Services","Buildings","Electricity",2013,194
+"142","Emergency Medical Services","Buildings","Electricity",2014,176
+"143","Emergency Medical Services","Buildings","Electricity",2015,175
+"144","Emergency Medical Services","Buildings","Electricity",2016,171
+"145","Emergency Medical Services","Buildings","Electricity",2017,160
+"146","Emergency Medical Services","Buildings","Electricity",2018,644
+"147","Emergency Medical Services","Buildings","Natural Gas",2005,322
+"148","Emergency Medical Services","Buildings","Natural Gas",2006,314
+"149","Emergency Medical Services","Buildings","Natural Gas",2007,322
+"150","Emergency Medical Services","Buildings","Natural Gas",2008,356
+"151","Emergency Medical Services","Buildings","Natural Gas",2009,360
+"152","Emergency Medical Services","Buildings","Natural Gas",2010,332
+"153","Emergency Medical Services","Buildings","Natural Gas",2011,374
+"154","Emergency Medical Services","Buildings","Natural Gas",2012,217
+"155","Emergency Medical Services","Buildings","Natural Gas",2013,324
+"156","Emergency Medical Services","Buildings","Natural Gas",2014,217
+"157","Emergency Medical Services","Buildings","Natural Gas",2015,204
+"158","Emergency Medical Services","Buildings","Natural Gas",2016,160
+"159","Emergency Medical Services","Buildings","Natural Gas",2017,374
+"160","Emergency Medical Services","Buildings","Natural Gas",2018,370
+"161","Emergency Medical Services","Vehicles","Diesel",2005,499
+"162","Emergency Medical Services","Vehicles","Diesel",2006,548
+"163","Emergency Medical Services","Vehicles","Diesel",2007,593
+"164","Emergency Medical Services","Vehicles","Diesel",2008,627
+"165","Emergency Medical Services","Vehicles","Diesel",2009,660
+"166","Emergency Medical Services","Vehicles","Diesel",2010,689
+"167","Emergency Medical Services","Vehicles","Diesel",2011,8
+"168","Emergency Medical Services","Vehicles","Diesel",2012,11
+"169","Emergency Medical Services","Vehicles","Diesel",2013,25
+"170","Emergency Medical Services","Vehicles","Diesel",2014,15
+"171","Emergency Medical Services","Vehicles","Diesel",2015,672
+"172","Emergency Medical Services","Vehicles","Gasoline",2007,385
+"173","Emergency Medical Services","Vehicles","Gasoline",2008,449
+"174","Emergency Medical Services","Vehicles","Gasoline",2009,431
+"175","Emergency Medical Services","Vehicles","Gasoline",2010,317
+"176","Emergency Medical Services","Vehicles","Gasoline",2011,317
+"177","Emergency Medical Services","Vehicles","Gasoline",2012,218
+"178","Emergency Medical Services","Vehicles","Gasoline",2013,315
+"179","Emergency Medical Services","Vehicles","Gasoline",2014,320
+"180","Emergency Medical Services","Vehicles","Gasoline",2015,216
+"181","Fire","Buildings","Electricity",2005,242
+"182","Fire","Buildings","Electricity",2006,229
+"183","Fire","Buildings","Electricity",2007,243
+"184","Fire","Buildings","Electricity",2008,252
+"185","Fire","Buildings","Electricity",2009,241
+"186","Fire","Buildings","Electricity",2010,231
+"187","Fire","Buildings","Electricity",2011,238
+"188","Fire","Buildings","Electricity",2012,98
+"189","Fire","Buildings","Electricity",2013,89
+"190","Fire","Buildings","Electricity",2014,91
+"191","Fire","Buildings","Electricity",2015,94
+"192","Fire","Buildings","Electricity",2016,85
+"193","Fire","Buildings","Electricity",2017,181
+"194","Fire","Buildings","Electricity",2018,187
+"195","Fire","Buildings","Fuel Oil",2005,539
+"196","Fire","Buildings","Fuel Oil",2006,313
+"197","Fire","Buildings","Fuel Oil",2007,212
+"198","Fire","Buildings","Fuel Oil",2008,311
+"199","Fire","Buildings","Fuel Oil",2009,358
+"200","Fire","Buildings","Fuel Oil",2010,213
+"201","Fire","Buildings","Fuel Oil",2011,325
+"202","Fire","Buildings","Fuel Oil",2012,313
+"203","Fire","Buildings","Fuel Oil",2013,348
+"204","Fire","Buildings","Fuel Oil",2014,176
+"205","Fire","Buildings","Fuel Oil",2015,169
+"206","Fire","Buildings","Fuel Oil",2016,622
+"207","Fire","Buildings","Fuel Oil",2017,690
+"208","Fire","Buildings","Fuel Oil",2018,130
+"209","Fire","Buildings","Natural Gas",2005,257
+"210","Fire","Buildings","Natural Gas",2006,288
+"211","Fire","Buildings","Natural Gas",2007,290
+"212","Fire","Buildings","Natural Gas",2008,293
+"213","Fire","Buildings","Natural Gas",2009,284
+"214","Fire","Buildings","Natural Gas",2010,93
+"215","Fire","Buildings","Natural Gas",2011,249
+"216","Fire","Buildings","Natural Gas",2012,83
+"217","Fire","Buildings","Natural Gas",2013,230
+"218","Fire","Buildings","Natural Gas",2014,254
+"219","Fire","Buildings","Natural Gas",2015,256
+"220","Fire","Buildings","Natural Gas",2016,265
+"221","Fire","Buildings","Natural Gas",2017,345
+"222","Fire","Buildings","Natural Gas",2018,347
+"223","Fire","Vehicles","Diesel",2005,70
+"224","Fire","Vehicles","Diesel",2006,66
+"225","Fire","Vehicles","Diesel",2007,227
+"226","Fire","Vehicles","Diesel",2008,100
+"227","Fire","Vehicles","Diesel",2009,100
+"228","Fire","Vehicles","Diesel",2010,221
+"229","Fire","Vehicles","Diesel",2011,228
+"230","Fire","Vehicles","Diesel",2012,223
+"231","Fire","Vehicles","Diesel",2013,103
+"232","Fire","Vehicles","Diesel",2014,251
+"233","Fire","Vehicles","Diesel",2015,206
+"234","Fire","Vehicles","Diesel",2016,386
+"235","Fire","Vehicles","Diesel",2017,215
+"236","Fire","Vehicles","Diesel",2018,432
+"237","Fire","Vehicles","Gasoline",2005,634
+"238","Fire","Vehicles","Gasoline",2006,634
+"239","Fire","Vehicles","Gasoline",2007,645
+"240","Fire","Vehicles","Gasoline",2008,637
+"241","Fire","Vehicles","Gasoline",2009,594
+"242","Fire","Vehicles","Gasoline",2010,575
+"243","Fire","Vehicles","Gasoline",2011,573
+"244","Fire","Vehicles","Gasoline",2012,214
+"245","Fire","Vehicles","Gasoline",2013,201
+"246","Fire","Vehicles","Gasoline",2014,552
+"247","Fire","Vehicles","Gasoline",2015,52
+"248","Fire","Vehicles","Gasoline",2016,584
+"249","Fire","Vehicles","Gasoline",2017,620
+"250","Fire","Vehicles","Gasoline",2018,346
+"251","Inspectional Services","Buildings","Electricity",2005,316
+"252","Inspectional Services","Buildings","Electricity",2006,309
+"253","Inspectional Services","Buildings","Electricity",2007,169
+"254","Inspectional Services","Buildings","Electricity",2008,349
+"255","Inspectional Services","Buildings","Electricity",2009,324
+"256","Inspectional Services","Buildings","Electricity",2010,315
+"257","Inspectional Services","Buildings","Electricity",2011,313
+"258","Inspectional Services","Buildings","Electricity",2012,342
+"259","Inspectional Services","Buildings","Electricity",2013,330
+"260","Inspectional Services","Buildings","Electricity",2014,323
+"261","Inspectional Services","Buildings","Electricity",2015,322
+"262","Inspectional Services","Buildings","Electricity",2016,311
+"263","Inspectional Services","Buildings","Electricity",2017,320
+"264","Inspectional Services","Buildings","Electricity",2018,207
+"265","Inspectional Services","Vehicles","Diesel",2008,104
+"266","Inspectional Services","Vehicles","Diesel",2009,146
+"267","Inspectional Services","Vehicles","Diesel",2010,109
+"268","Inspectional Services","Vehicles","Diesel",2011,520
+"269","Inspectional Services","Vehicles","Diesel",2012,599
+"270","Inspectional Services","Vehicles","Diesel",2013,109
+"271","Inspectional Services","Vehicles","Diesel",2014,646
+"272","Inspectional Services","Vehicles","Gasoline",2008,169
+"273","Inspectional Services","Vehicles","Gasoline",2009,140
+"274","Inspectional Services","Vehicles","Gasoline",2010,125
+"275","Inspectional Services","Vehicles","Gasoline",2011,141
+"276","Inspectional Services","Vehicles","Gasoline",2012,130
+"277","Inspectional Services","Vehicles","Gasoline",2013,143
+"278","Inspectional Services","Vehicles","Gasoline",2014,125
+"279","Library","Buildings","Electricity",2005,605
+"280","Library","Buildings","Electricity",2006,610
+"281","Library","Buildings","Electricity",2007,601
+"282","Library","Buildings","Electricity",2008,607
+"283","Library","Buildings","Electricity",2009,558
+"284","Library","Buildings","Electricity",2010,525
+"285","Library","Buildings","Electricity",2011,492
+"286","Library","Buildings","Electricity",2012,485
+"287","Library","Buildings","Electricity",2013,475
+"288","Library","Buildings","Electricity",2014,412
+"289","Library","Buildings","Electricity",2015,408
+"290","Library","Buildings","Electricity",2016,405
+"291","Library","Buildings","Electricity",2017,465
+"292","Library","Buildings","Electricity",2018,468
+"293","Library","Buildings","Fuel Oil",2005,194
+"294","Library","Buildings","Fuel Oil",2006,313
+"295","Library","Buildings","Fuel Oil",2007,310
+"296","Library","Buildings","Fuel Oil",2008,195
+"297","Library","Buildings","Fuel Oil",2009,514
+"298","Library","Buildings","Natural Gas",2005,686
+"299","Library","Buildings","Natural Gas",2006,682
+"300","Library","Buildings","Natural Gas",2007,3
+"301","Library","Buildings","Natural Gas",2008,679
+"302","Library","Buildings","Natural Gas",2009,668
+"303","Library","Buildings","Natural Gas",2010,6
+"304","Library","Buildings","Natural Gas",2011,676
+"305","Library","Buildings","Natural Gas",2012,631
+"306","Library","Buildings","Natural Gas",2013,651
+"307","Library","Buildings","Natural Gas",2014,633
+"308","Library","Buildings","Natural Gas",2015,695
+"309","Library","Buildings","Natural Gas",2016,666
+"310","Library","Buildings","Natural Gas",2017,649
+"311","Library","Buildings","Natural Gas",2018,654
+"312","Library","Buildings","Steam",2005,529
+"313","Library","Buildings","Steam",2006,528
+"314","Library","Buildings","Steam",2007,482
+"315","Library","Buildings","Steam",2008,400
+"316","Library","Buildings","Steam",2009,294
+"317","Library","Buildings","Steam",2010,281
+"318","Library","Buildings","Steam",2011,298
+"319","Library","Buildings","Steam",2012,302
+"320","Library","Buildings","Steam",2013,282
+"321","Library","Buildings","Steam",2014,289
+"322","Library","Buildings","Steam",2015,224
+"323","Library","Buildings","Steam",2016,233
+"324","Library","Buildings","Steam",2017,447
+"325","Library","Buildings","Steam",2018,308
+"326","Library","Unknown","Diesel",2012,473
+"327","Library","Unknown","Diesel",2016,220
+"328","Library","Unknown","Diesel",2017,220
+"329","Library","Unknown","Diesel",2018,220
+"330","Library","Vehicles","Gasoline",2005,542
+"331","Library","Vehicles","Gasoline",2006,542
+"332","Library","Vehicles","Gasoline",2007,542
+"333","Library","Vehicles","Gasoline",2008,533
+"334","Library","Vehicles","Gasoline",2009,514
+"335","Library","Vehicles","Gasoline",2010,381
+"336","Library","Vehicles","Gasoline",2011,462
+"337","Library","Vehicles","Gasoline",2012,501
+"338","Library","Vehicles","Gasoline",2013,517
+"339","Library","Vehicles","Gasoline",2014,538
+"340","Neighborhood Development","Buildings","Electricity",2005,144
+"341","Neighborhood Development","Buildings","Electricity",2006,576
+"342","Neighborhood Development","Buildings","Electricity",2007,596
+"343","Neighborhood Development","Buildings","Electricity",2008,561
+"344","Neighborhood Development","Buildings","Electricity",2009,551
+"345","Neighborhood Development","Buildings","Electricity",2010,629
+"346","Neighborhood Development","Buildings","Electricity",2011,685
+"347","Neighborhood Development","Buildings","Electricity",2012,632
+"348","Neighborhood Development","Buildings","Electricity",2013,467
+"349","Neighborhood Development","Buildings","Electricity",2014,509
+"350","Neighborhood Development","Buildings","Electricity",2015,520
+"351","Neighborhood Development","Buildings","Electricity",2016,390
+"352","Neighborhood Development","Buildings","Electricity",2017,390
+"353","Neighborhood Development","Buildings","Electricity",2018,504
+"354","Neighborhood Development","Buildings","Fuel Oil",2011,653
+"355","Neighborhood Development","Buildings","Fuel Oil",2012,121
+"356","Neighborhood Development","Buildings","Natural Gas",2009,106
+"357","Neighborhood Development","Buildings","Natural Gas",2010,131
+"358","Neighborhood Development","Buildings","Natural Gas",2011,344
+"359","Neighborhood Development","Buildings","Natural Gas",2012,179
+"360","Neighborhood Development","Buildings","Natural Gas",2013,218
+"361","Neighborhood Development","Buildings","Natural Gas",2014,382
+"362","Neighborhood Development","Buildings","Natural Gas",2015,390
+"363","Neighborhood Development","Buildings","Natural Gas",2016,549
+"364","Neighborhood Development","Buildings","Natural Gas",2017,538
+"365","Neighborhood Development","Buildings","Natural Gas",2018,423
+"366","Neighborhood Development","Vehicles","Gasoline",2008,413
+"367","Neighborhood Development","Vehicles","Gasoline",2009,381
+"368","Neighborhood Development","Vehicles","Gasoline",2010,372
+"369","Neighborhood Development","Vehicles","Gasoline",2011,387
+"370","Neighborhood Development","Vehicles","Gasoline",2012,196
+"371","Neighborhood Development","Vehicles","Gasoline",2013,104
+"372","Neighborhood Development","Vehicles","Gasoline",2014,520
+"373","Parks and Recreation","Buildings","Electricity",2005,63
+"374","Parks and Recreation","Buildings","Electricity",2006,64
+"375","Parks and Recreation","Buildings","Electricity",2007,87
+"376","Parks and Recreation","Buildings","Electricity",2008,88
+"377","Parks and Recreation","Buildings","Electricity",2009,74
+"378","Parks and Recreation","Buildings","Electricity",2010,75
+"379","Parks and Recreation","Buildings","Electricity",2011,69
+"380","Parks and Recreation","Buildings","Electricity",2012,45
+"381","Parks and Recreation","Buildings","Electricity",2013,40
+"382","Parks and Recreation","Buildings","Electricity",2014,47
+"383","Parks and Recreation","Buildings","Electricity",2015,35
+"384","Parks and Recreation","Buildings","Electricity",2016,27
+"385","Parks and Recreation","Buildings","Electricity",2017,112
+"386","Parks and Recreation","Buildings","Electricity",2018,118
+"387","Parks and Recreation","Buildings","Fuel Oil",2005,306
+"388","Parks and Recreation","Buildings","Fuel Oil",2006,306
+"389","Parks and Recreation","Buildings","Fuel Oil",2007,182
+"390","Parks and Recreation","Buildings","Fuel Oil",2008,325
+"391","Parks and Recreation","Buildings","Fuel Oil",2009,376
+"392","Parks and Recreation","Buildings","Fuel Oil",2010,339
+"393","Parks and Recreation","Buildings","Fuel Oil",2011,384
+"394","Parks and Recreation","Buildings","Fuel Oil",2012,340
+"395","Parks and Recreation","Buildings","Fuel Oil",2013,356
+"396","Parks and Recreation","Buildings","Fuel Oil",2014,388
+"397","Parks and Recreation","Buildings","Fuel Oil",2015,311
+"398","Parks and Recreation","Buildings","Fuel Oil",2016,200
+"399","Parks and Recreation","Buildings","Fuel Oil",2017,337
+"400","Parks and Recreation","Buildings","Fuel Oil",2018,428
+"401","Parks and Recreation","Buildings","Natural Gas",2005,544
+"402","Parks and Recreation","Buildings","Natural Gas",2006,498
+"403","Parks and Recreation","Buildings","Natural Gas",2007,461
+"404","Parks and Recreation","Buildings","Natural Gas",2008,463
+"405","Parks and Recreation","Buildings","Natural Gas",2009,459
+"406","Parks and Recreation","Buildings","Natural Gas",2010,430
+"407","Parks and Recreation","Buildings","Natural Gas",2011,451
+"408","Parks and Recreation","Buildings","Natural Gas",2012,421
+"409","Parks and Recreation","Buildings","Natural Gas",2013,441
+"410","Parks and Recreation","Buildings","Natural Gas",2014,469
+"411","Parks and Recreation","Buildings","Natural Gas",2015,510
+"412","Parks and Recreation","Buildings","Natural Gas",2016,472
+"413","Parks and Recreation","Buildings","Natural Gas",2017,445
+"414","Parks and Recreation","Buildings","Natural Gas",2018,540
+"415","Parks and Recreation","Vehicles","Diesel",2005,536
+"416","Parks and Recreation","Vehicles","Diesel",2006,532
+"417","Parks and Recreation","Vehicles","Diesel",2007,511
+"418","Parks and Recreation","Vehicles","Diesel",2008,546
+"419","Parks and Recreation","Vehicles","Diesel",2009,568
+"420","Parks and Recreation","Vehicles","Diesel",2010,595
+"421","Parks and Recreation","Vehicles","Diesel",2011,569
+"422","Parks and Recreation","Vehicles","Diesel",2012,581
+"423","Parks and Recreation","Vehicles","Diesel",2013,567
+"424","Parks and Recreation","Vehicles","Diesel",2014,537
+"425","Parks and Recreation","Vehicles","Diesel",2015,536
+"426","Parks and Recreation","Vehicles","Diesel",2016,503
+"427","Parks and Recreation","Vehicles","Diesel",2017,368
+"428","Parks and Recreation","Vehicles","Diesel",2018,342
+"429","Parks and Recreation","Vehicles","Gasoline",2005,309
+"430","Parks and Recreation","Vehicles","Gasoline",2006,123
+"431","Parks and Recreation","Vehicles","Gasoline",2007,461
+"432","Parks and Recreation","Vehicles","Gasoline",2008,519
+"433","Parks and Recreation","Vehicles","Gasoline",2009,531
+"434","Parks and Recreation","Vehicles","Gasoline",2010,515
+"435","Parks and Recreation","Vehicles","Gasoline",2011,512
+"436","Parks and Recreation","Vehicles","Gasoline",2012,556
+"437","Parks and Recreation","Vehicles","Gasoline",2013,535
+"438","Parks and Recreation","Vehicles","Gasoline",2014,513
+"439","Parks and Recreation","Vehicles","Gasoline",2015,570
+"440","Parks and Recreation","Vehicles","Gasoline",2016,578
+"441","Parks and Recreation","Vehicles","Gasoline",2017,583
+"442","Parks and Recreation","Vehicles","Gasoline",2018,624
+"443","Parks and Recreation","Vehicles","Biodiesel",2018,121
+"444","Police","Buildings","Electricity",2005,484
+"445","Police","Buildings","Electricity",2006,490
+"446","Police","Buildings","Electricity",2007,477
+"447","Police","Buildings","Electricity",2008,488
+"448","Police","Buildings","Electricity",2009,483
+"449","Police","Buildings","Electricity",2010,478
+"450","Police","Buildings","Electricity",2011,476
+"451","Police","Buildings","Electricity",2012,474
+"452","Police","Buildings","Electricity",2013,403
+"453","Police","Buildings","Electricity",2014,407
+"454","Police","Buildings","Electricity",2015,406
+"455","Police","Buildings","Electricity",2016,404
+"456","Police","Buildings","Electricity",2017,442
+"457","Police","Buildings","Electricity",2018,437
+"458","Police","Buildings","Fuel Oil",2005,541
+"459","Police","Buildings","Fuel Oil",2006,497
+"460","Police","Buildings","Fuel Oil",2007,457
+"461","Police","Buildings","Fuel Oil",2008,448
+"462","Police","Buildings","Fuel Oil",2009,466
+"463","Police","Buildings","Fuel Oil",2010,443
+"464","Police","Buildings","Fuel Oil",2011,384
+"465","Police","Buildings","Fuel Oil",2012,329
+"466","Police","Buildings","Fuel Oil",2013,349
+"467","Police","Buildings","Fuel Oil",2014,373
+"468","Police","Buildings","Fuel Oil",2015,383
+"469","Police","Buildings","Fuel Oil",2016,168
+"470","Police","Buildings","Fuel Oil",2017,202
+"471","Police","Buildings","Fuel Oil",2018,321
+"472","Police","Buildings","Natural Gas",2005,291
+"473","Police","Buildings","Natural Gas",2006,246
+"474","Police","Buildings","Natural Gas",2007,240
+"475","Police","Buildings","Natural Gas",2008,253
+"476","Police","Buildings","Natural Gas",2009,270
+"477","Police","Buildings","Natural Gas",2010,255
+"478","Police","Buildings","Natural Gas",2011,271
+"479","Police","Buildings","Natural Gas",2012,259
+"480","Police","Buildings","Natural Gas",2013,276
+"481","Police","Buildings","Natural Gas",2014,279
+"482","Police","Buildings","Natural Gas",2015,285
+"483","Police","Buildings","Natural Gas",2016,235
+"484","Police","Buildings","Natural Gas",2017,338
+"485","Police","Buildings","Natural Gas",2018,351
+"486","Police","Vehicles","Diesel",2006,220
+"487","Police","Vehicles","Diesel",2008,517
+"488","Police","Vehicles","Diesel",2009,496
+"489","Police","Vehicles","Diesel",2010,496
+"490","Police","Vehicles","Diesel",2011,450
+"491","Police","Vehicles","Diesel",2012,514
+"492","Police","Vehicles","Diesel",2013,585
+"493","Police","Vehicles","Diesel",2014,681
+"494","Police","Vehicles","Diesel",2016,473
+"495","Police","Vehicles","Diesel",2017,599
+"496","Police","Vehicles","Diesel",2018,220
+"497","Police","Vehicles","Gasoline",2005,608
+"498","Police","Vehicles","Gasoline",2006,611
+"499","Police","Vehicles","Gasoline",2007,613
+"500","Police","Vehicles","Gasoline",2008,647
+"501","Police","Vehicles","Gasoline",2009,617
+"502","Police","Vehicles","Gasoline",2010,614
+"503","Police","Vehicles","Gasoline",2011,609
+"504","Police","Vehicles","Gasoline",2012,615
+"505","Police","Vehicles","Gasoline",2013,648
+"506","Police","Vehicles","Gasoline",2014,616
+"507","Police","Vehicles","Gasoline",2015,612
+"508","Police","Vehicles","Gasoline",2016,600
+"509","Police","Vehicles","Gasoline",2017,603
+"510","Police","Vehicles","Gasoline",2018,674
+"511","Property & Construction Mgmt","Buildings","Electricity",2005,606
+"512","Property & Construction Mgmt","Buildings","Electricity",2006,602
+"513","Property & Construction Mgmt","Buildings","Electricity",2007,560
+"514","Property & Construction Mgmt","Buildings","Electricity",2008,604
+"515","Property & Construction Mgmt","Buildings","Electricity",2009,559
+"516","Property & Construction Mgmt","Buildings","Electricity",2010,524
+"517","Property & Construction Mgmt","Buildings","Electricity",2011,530
+"518","Property & Construction Mgmt","Buildings","Electricity",2012,523
+"519","Property & Construction Mgmt","Buildings","Electricity",2013,527
+"520","Property & Construction Mgmt","Buildings","Electricity",2014,486
+"521","Property & Construction Mgmt","Buildings","Electricity",2015,526
+"522","Property & Construction Mgmt","Buildings","Electricity",2016,522
+"523","Property & Construction Mgmt","Buildings","Electricity",2017,543
+"524","Property & Construction Mgmt","Buildings","Electricity",2018,518
+"525","Property & Construction Mgmt","Buildings","Fuel Oil",2005,505
+"526","Property & Construction Mgmt","Buildings","Fuel Oil",2006,495
+"527","Property & Construction Mgmt","Buildings","Fuel Oil",2007,471
+"528","Property & Construction Mgmt","Buildings","Fuel Oil",2008,174
+"529","Property & Construction Mgmt","Buildings","Fuel Oil",2009,335
+"530","Property & Construction Mgmt","Buildings","Fuel Oil",2010,190
+"531","Property & Construction Mgmt","Buildings","Fuel Oil",2011,192
+"532","Property & Construction Mgmt","Buildings","Fuel Oil",2012,113
+"533","Property & Construction Mgmt","Buildings","Fuel Oil",2013,170
+"534","Property & Construction Mgmt","Buildings","Natural Gas",2005,587
+"535","Property & Construction Mgmt","Buildings","Natural Gas",2006,588
+"536","Property & Construction Mgmt","Buildings","Natural Gas",2007,639
+"537","Property & Construction Mgmt","Buildings","Natural Gas",2008,667
+"538","Property & Construction Mgmt","Buildings","Natural Gas",2009,671
+"539","Property & Construction Mgmt","Buildings","Natural Gas",2010,636
+"540","Property & Construction Mgmt","Buildings","Natural Gas",2011,19
+"541","Property & Construction Mgmt","Buildings","Natural Gas",2012,13
+"542","Property & Construction Mgmt","Buildings","Natural Gas",2013,23
+"543","Property & Construction Mgmt","Buildings","Natural Gas",2014,34
+"544","Property & Construction Mgmt","Buildings","Natural Gas",2015,99
+"545","Property & Construction Mgmt","Buildings","Natural Gas",2016,28
+"546","Property & Construction Mgmt","Buildings","Natural Gas",2017,126
+"547","Property & Construction Mgmt","Buildings","Natural Gas",2018,119
+"548","Property & Construction Mgmt","Buildings","Steam",2005,304
+"549","Property & Construction Mgmt","Buildings","Steam",2006,222
+"550","Property & Construction Mgmt","Buildings","Steam",2007,71
+"551","Property & Construction Mgmt","Buildings","Steam",2008,77
+"552","Property & Construction Mgmt","Buildings","Steam",2009,57
+"553","Property & Construction Mgmt","Buildings","Steam",2010,7
+"554","Property & Construction Mgmt","Buildings","Steam",2011,55
+"555","Property & Construction Mgmt","Buildings","Steam",2012,696
+"556","Property & Construction Mgmt","Buildings","Steam",2013,12
+"557","Property & Construction Mgmt","Buildings","Steam",2014,61
+"558","Property & Construction Mgmt","Buildings","Steam",2015,21
+"559","Property & Construction Mgmt","Buildings","Steam",2016,619
+"560","Property & Construction Mgmt","Buildings","Steam",2017,566
+"561","Property & Construction Mgmt","Buildings","Steam",2018,547
+"562","Property & Construction Mgmt","Vehicles","Diesel",2008,420
+"563","Property & Construction Mgmt","Vehicles","Diesel",2009,462
+"564","Property & Construction Mgmt","Vehicles","Diesel",2010,496
+"565","Property & Construction Mgmt","Vehicles","Diesel",2011,496
+"566","Property & Construction Mgmt","Vehicles","Diesel",2012,462
+"567","Property & Construction Mgmt","Vehicles","Diesel",2013,509
+"568","Property & Construction Mgmt","Vehicles","Diesel",2014,496
+"569","Property & Construction Mgmt","Vehicles","Gasoline",2008,383
+"570","Property & Construction Mgmt","Vehicles","Gasoline",2009,355
+"571","Property & Construction Mgmt","Vehicles","Gasoline",2010,343
+"572","Property & Construction Mgmt","Vehicles","Gasoline",2011,329
+"573","Property & Construction Mgmt","Vehicles","Gasoline",2012,306
+"574","Property & Construction Mgmt","Vehicles","Gasoline",2013,309
+"575","Property & Construction Mgmt","Vehicles","Gasoline",2014,186
+"576","Property & Construction Mgmt","Vehicles","Gasoline",2015,117
+"577","Public Health Commission","Buildings","Electricity",2005,401
+"578","Public Health Commission","Buildings","Electricity",2006,397
+"579","Public Health Commission","Buildings","Electricity",2007,399
+"580","Public Health Commission","Buildings","Electricity",2008,398
+"581","Public Health Commission","Buildings","Electricity",2009,396
+"582","Public Health Commission","Buildings","Electricity",2010,278
+"583","Public Health Commission","Buildings","Electricity",2011,394
+"584","Public Health Commission","Buildings","Electricity",2012,301
+"585","Public Health Commission","Buildings","Electricity",2013,258
+"586","Public Health Commission","Buildings","Electricity",2014,260
+"587","Public Health Commission","Buildings","Electricity",2015,262
+"588","Public Health Commission","Buildings","Electricity",2016,272
+"589","Public Health Commission","Buildings","Electricity",2017,336
+"590","Public Health Commission","Buildings","Electricity",2018,318
+"591","Public Health Commission","Buildings","Fuel Oil",2005,491
+"592","Public Health Commission","Buildings","Fuel Oil",2006,493
+"593","Public Health Commission","Buildings","Fuel Oil",2007,410
+"594","Public Health Commission","Buildings","Fuel Oil",2008,393
+"595","Public Health Commission","Buildings","Fuel Oil",2009,300
+"596","Public Health Commission","Buildings","Fuel Oil",2010,287
+"597","Public Health Commission","Buildings","Fuel Oil",2011,296
+"598","Public Health Commission","Buildings","Fuel Oil",2012,273
+"599","Public Health Commission","Buildings","Fuel Oil",2013,292
+"600","Public Health Commission","Buildings","Fuel Oil",2014,297
+"601","Public Health Commission","Buildings","Fuel Oil",2018,623
+"602","Public Health Commission","Buildings","Natural Gas",2005,303
+"603","Public Health Commission","Buildings","Natural Gas",2006,395
+"604","Public Health Commission","Buildings","Natural Gas",2007,391
+"605","Public Health Commission","Buildings","Natural Gas",2008,299
+"606","Public Health Commission","Buildings","Natural Gas",2009,392
+"607","Public Health Commission","Buildings","Natural Gas",2010,248
+"608","Public Health Commission","Buildings","Natural Gas",2011,280
+"609","Public Health Commission","Buildings","Natural Gas",2012,234
+"610","Public Health Commission","Buildings","Natural Gas",2013,268
+"611","Public Health Commission","Buildings","Natural Gas",2014,247
+"612","Public Health Commission","Buildings","Natural Gas",2015,245
+"613","Public Health Commission","Buildings","Natural Gas",2016,237
+"614","Public Health Commission","Buildings","Natural Gas",2017,464
+"615","Public Health Commission","Buildings","Natural Gas",2018,567
+"616","Public Health Commission","Vehicles","Diesel",2008,113
+"617","Public Health Commission","Vehicles","Diesel",2009,670
+"618","Public Health Commission","Vehicles","Diesel",2010,172
+"619","Public Health Commission","Vehicles","Diesel",2011,327
+"620","Public Health Commission","Vehicles","Diesel",2012,327
+"621","Public Health Commission","Vehicles","Diesel",2013,208
+"622","Public Health Commission","Vehicles","Diesel",2014,196
+"623","Public Health Commission","Vehicles","Diesel",2015,196
+"624","Public Health Commission","Vehicles","Diesel",2018,307
+"625","Public Health Commission","Vehicles","Gasoline",2008,380
+"626","Public Health Commission","Vehicles","Gasoline",2009,369
+"627","Public Health Commission","Vehicles","Gasoline",2010,419
+"628","Public Health Commission","Vehicles","Gasoline",2011,389
+"629","Public Health Commission","Vehicles","Gasoline",2012,359
+"630","Public Health Commission","Vehicles","Gasoline",2013,377
+"631","Public Health Commission","Vehicles","Gasoline",2014,375
+"632","Public Health Commission","Vehicles","Gasoline",2015,375
+"633","Public Works","Buildings","Electricity",2005,59
+"634","Public Works","Buildings","Electricity",2006,56
+"635","Public Works","Buildings","Electricity",2007,78
+"636","Public Works","Buildings","Electricity",2008,75
+"637","Public Works","Buildings","Electricity",2009,67
+"638","Public Works","Buildings","Electricity",2010,76
+"639","Public Works","Buildings","Electricity",2011,53
+"640","Public Works","Buildings","Electricity",2012,39
+"641","Public Works","Buildings","Electricity",2013,16
+"642","Public Works","Buildings","Electricity",2014,17
+"643","Public Works","Buildings","Electricity",2015,24
+"644","Public Works","Buildings","Electricity",2016,20
+"645","Public Works","Buildings","Electricity",2017,124
+"646","Public Works","Buildings","Electricity",2018,116
+"647","Public Works","Buildings","Fuel Oil",2005,155
+"648","Public Works","Buildings","Fuel Oil",2006,145
+"649","Public Works","Buildings","Fuel Oil",2007,131
+"650","Public Works","Buildings","Fuel Oil",2008,115
+"651","Public Works","Buildings","Fuel Oil",2009,157
+"652","Public Works","Buildings","Fuel Oil",2010,127
+"653","Public Works","Buildings","Fuel Oil",2011,142
+"654","Public Works","Buildings","Fuel Oil",2012,108
+"655","Public Works","Buildings","Fuel Oil",2013,140
+"656","Public Works","Buildings","Fuel Oil",2014,144
+"657","Public Works","Buildings","Fuel Oil",2015,127
+"658","Public Works","Buildings","Fuel Oil",2016,538
+"659","Public Works","Buildings","Fuel Oil",2017,551
+"660","Public Works","Buildings","Fuel Oil",2018,576
+"661","Public Works","Buildings","Natural Gas",2005,239
+"662","Public Works","Buildings","Natural Gas",2006,82
+"663","Public Works","Buildings","Natural Gas",2007,102
+"664","Public Works","Buildings","Natural Gas",2008,101
+"665","Public Works","Buildings","Natural Gas",2009,95
+"666","Public Works","Buildings","Natural Gas",2010,81
+"667","Public Works","Buildings","Natural Gas",2011,84
+"668","Public Works","Buildings","Natural Gas",2012,62
+"669","Public Works","Buildings","Natural Gas",2013,54
+"670","Public Works","Buildings","Natural Gas",2014,281
+"671","Public Works","Buildings","Natural Gas",2015,277
+"672","Public Works","Buildings","Natural Gas",2016,31
+"673","Public Works","Buildings","Natural Gas",2017,178
+"674","Public Works","Buildings","Natural Gas",2018,134
+"675","Public Works","Street Lights","Electricity",2005,364
+"676","Public Works","Street Lights","Electricity",2006,353
+"677","Public Works","Street Lights","Electricity",2007,354
+"678","Public Works","Street Lights","Electricity",2008,363
+"679","Public Works","Street Lights","Electricity",2009,352
+"680","Public Works","Street Lights","Electricity",2010,341
+"681","Public Works","Street Lights","Electricity",2011,328
+"682","Public Works","Street Lights","Electricity",2012,184
+"683","Public Works","Street Lights","Electricity",2013,163
+"684","Public Works","Street Lights","Electricity",2014,139
+"685","Public Works","Street Lights","Electricity",2015,110
+"686","Public Works","Street Lights","Electricity",2016,675
+"687","Public Works","Street Lights","Electricity",2017,655
+"688","Public Works","Street Lights","Electricity",2018,641
+"689","Public Works","Street Lights","Natural Gas",2005,481
+"690","Public Works","Street Lights","Natural Gas",2006,481
+"691","Public Works","Street Lights","Natural Gas",2007,481
+"692","Public Works","Street Lights","Natural Gas",2008,481
+"693","Public Works","Street Lights","Natural Gas",2009,481
+"694","Public Works","Street Lights","Natural Gas",2010,481
+"695","Public Works","Street Lights","Natural Gas",2011,481
+"696","Public Works","Street Lights","Natural Gas",2012,481
+"697","Public Works","Street Lights","Natural Gas",2013,481
+"698","Public Works","Street Lights","Natural Gas",2014,481
+"699","Public Works","Street Lights","Natural Gas",2015,521
+"700","Public Works","Street Lights","Natural Gas",2016,487
+"701","Public Works","Street Lights","Natural Gas",2017,460
+"702","Public Works","Street Lights","Natural Gas",2018,506
+"703","Public Works","Vehicles","Diesel",2005,250
+"704","Public Works","Vehicles","Diesel",2006,96
+"705","Public Works","Vehicles","Diesel",2007,90
+"706","Public Works","Vehicles","Diesel",2008,22
+"707","Public Works","Vehicles","Diesel",2009,86
+"708","Public Works","Vehicles","Diesel",2010,10
+"709","Public Works","Vehicles","Diesel",2011,33
+"710","Public Works","Vehicles","Diesel",2012,9
+"711","Public Works","Vehicles","Diesel",2013,54
+"712","Public Works","Vehicles","Diesel",2014,72
+"713","Public Works","Vehicles","Diesel",2015,402
+"714","Public Works","Vehicles","Diesel",2016,295
+"715","Public Works","Vehicles","Diesel",2017,211
+"716","Public Works","Vehicles","Diesel",2018,334
+"717","Public Works","Vehicles","Gasoline",2005,479
+"718","Public Works","Vehicles","Gasoline",2006,489
+"719","Public Works","Vehicles","Gasoline",2007,480
+"720","Public Works","Vehicles","Gasoline",2008,60
+"721","Public Works","Vehicles","Gasoline",2009,50
+"722","Public Works","Vehicles","Gasoline",2010,38
+"723","Public Works","Vehicles","Gasoline",2011,37
+"724","Public Works","Vehicles","Gasoline",2012,26
+"725","Public Works","Vehicles","Gasoline",2013,36
+"726","Public Works","Vehicles","Gasoline",2014,18
+"727","Public Works","Vehicles","Gasoline",2015,409
+"728","Public Works","Vehicles","Gasoline",2016,411
+"729","Public Works","Vehicles","Gasoline",2017,470
+"730","Public Works","Vehicles","Gasoline",2018,156
+"731","Public Works","Vehicles","Biodiesel",2018,508
+"732","Transportation","Buildings","Electricity",2005,418
+"733","Transportation","Buildings","Electricity",2006,349
+"734","Transportation","Buildings","Electricity",2007,335
+"735","Transportation","Buildings","Electricity",2008,371
+"736","Transportation","Buildings","Electricity",2009,312
+"737","Transportation","Buildings","Electricity",2010,379
+"738","Transportation","Buildings","Electricity",2011,379
+"739","Transportation","Buildings","Electricity",2012,357
+"740","Transportation","Buildings","Electricity",2013,350
+"741","Transportation","Buildings","Fuel Oil",2005,494
+"742","Transportation","Buildings","Fuel Oil",2006,650
+"743","Transportation","Buildings","Fuel Oil",2007,571
+"744","Transportation","Buildings","Fuel Oil",2008,146
+"745","Transportation","Buildings","Fuel Oil",2009,135
+"746","Transportation","Buildings","Fuel Oil",2010,646
+"747","Transportation","Buildings","Fuel Oil",2011,135
+"748","Transportation","Buildings","Fuel Oil",2012,520
+"749","Transportation","Buildings","Fuel Oil",2013,183
+"750","Transportation","Buildings","Fuel Oil",2014,196
+"751","Transportation","Buildings","Fuel Oil",2015,327
+"752","Transportation","Buildings","Fuel Oil",2016,673
+"753","Transportation","Buildings","Fuel Oil",2017,161
+"754","Transportation","Buildings","Fuel Oil",2018,305
+"755","Transportation","Buildings","Natural Gas",2005,216
+"756","Transportation","Buildings","Natural Gas",2006,167
+"757","Transportation","Buildings","Natural Gas",2007,182
+"758","Transportation","Buildings","Natural Gas",2008,177
+"759","Transportation","Buildings","Natural Gas",2009,207
+"760","Transportation","Buildings","Natural Gas",2010,186
+"761","Transportation","Buildings","Natural Gas",2011,210
+"762","Transportation","Buildings","Natural Gas",2012,159
+"763","Transportation","Buildings","Natural Gas",2013,201
+"764","Transportation","Buildings","Natural Gas",2014,316
+"765","Transportation","Buildings","Natural Gas",2015,325
+"766","Transportation","Buildings","Natural Gas",2016,687
+"767","Transportation","Buildings","Natural Gas",2017,462
+"768","Transportation","Buildings","Natural Gas",2018,533
+"769","Transportation","Street Lights","Electricity",2005,244
+"770","Transportation","Street Lights","Electricity",2006,75
+"771","Transportation","Street Lights","Electricity",2007,48
+"772","Transportation","Street Lights","Electricity",2008,22
+"773","Transportation","Street Lights","Electricity",2009,688
+"774","Transportation","Street Lights","Electricity",2010,680
+"775","Transportation","Street Lights","Electricity",2011,664
+"776","Transportation","Street Lights","Electricity",2012,638
+"777","Transportation","Street Lights","Electricity",2013,626
+"778","Transportation","Street Lights","Electricity",2014,692
+"779","Transportation","Street Lights","Electricity",2015,683
+"780","Transportation","Street Lights","Electricity",2016,659
+"781","Transportation","Street Lights","Electricity",2017,640
+"782","Transportation","Street Lights","Electricity",2018,625
+"783","Transportation","Vehicles","Diesel",2008,433
+"784","Transportation","Vehicles","Diesel",2009,440
+"785","Transportation","Vehicles","Diesel",2010,384
+"786","Transportation","Vehicles","Diesel",2011,416
+"787","Transportation","Vehicles","Diesel",2012,438
+"788","Transportation","Vehicles","Diesel",2013,417
+"789","Transportation","Vehicles","Diesel",2014,458
+"790","Transportation","Vehicles","Gasoline",2008,691
+"791","Transportation","Vehicles","Gasoline",2009,694
+"792","Transportation","Vehicles","Gasoline",2010,4
+"793","Transportation","Vehicles","Gasoline",2011,684
+"794","Transportation","Vehicles","Gasoline",2012,665
+"795","Transportation","Vehicles","Gasoline",2013,661
+"796","Transportation","Vehicles","Gasoline",2014,657
+"797","Transportation","Vehicles","Gasoline",2015,205
+"798","Transportation","Vehicles","Gasoline",2018,678
+"799","Water and Sewer Commission","Buildings","Electricity",2005,267
+"800","Water and Sewer Commission","Buildings","Electricity",2006,225
+"801","Water and Sewer Commission","Buildings","Electricity",2007,230
+"802","Water and Sewer Commission","Buildings","Electricity",2008,97
+"803","Water and Sewer Commission","Buildings","Electricity",2009,226
+"804","Water and Sewer Commission","Buildings","Electricity",2010,73
+"805","Water and Sewer Commission","Buildings","Electricity",2011,60
+"806","Water and Sewer Commission","Buildings","Electricity",2012,565
+"807","Water and Sewer Commission","Buildings","Electricity",2013,30
+"808","Water and Sewer Commission","Buildings","Electricity",2014,80
+"809","Water and Sewer Commission","Buildings","Electricity",2015,92
+"810","Water and Sewer Commission","Buildings","Electricity",2016,79
+"811","Water and Sewer Commission","Buildings","Electricity",2017,191
+"812","Water and Sewer Commission","Buildings","Electricity",2018,120
+"813","Water and Sewer Commission","Buildings","Natural Gas",2005,633
+"814","Water and Sewer Commission","Buildings","Natural Gas",2006,553
+"815","Water and Sewer Commission","Buildings","Natural Gas",2007,579
+"816","Water and Sewer Commission","Buildings","Natural Gas",2008,574
+"817","Water and Sewer Commission","Buildings","Natural Gas",2009,669
+"818","Water and Sewer Commission","Buildings","Natural Gas",2010,582
+"819","Water and Sewer Commission","Buildings","Natural Gas",2011,32
+"820","Water and Sewer Commission","Buildings","Natural Gas",2012,643
+"821","Water and Sewer Commission","Buildings","Natural Gas",2013,5
+"822","Water and Sewer Commission","Buildings","Natural Gas",2014,14
+"823","Water and Sewer Commission","Buildings","Natural Gas",2015,663
+"824","Water and Sewer Commission","Buildings","Natural Gas",2016,693
+"825","Water and Sewer Commission","Buildings","Natural Gas",2017,105
+"826","Water and Sewer Commission","Buildings","Natural Gas",2018,665
+"827","Water and Sewer Commission","Vehicles","Diesel",2005,658
+"828","Water and Sewer Commission","Vehicles","Diesel",2006,630
+"829","Water and Sewer Commission","Vehicles","Diesel",2007,662
+"830","Water and Sewer Commission","Vehicles","Diesel",2008,652
+"831","Water and Sewer Commission","Vehicles","Diesel",2009,652
+"832","Water and Sewer Commission","Vehicles","Diesel",2010,627
+"833","Water and Sewer Commission","Vehicles","Diesel",2011,572
+"834","Water and Sewer Commission","Vehicles","Diesel",2012,563
+"835","Water and Sewer Commission","Vehicles","Diesel",2013,577
+"836","Water and Sewer Commission","Vehicles","Diesel",2014,642
+"837","Water and Sewer Commission","Vehicles","Diesel",2015,592
+"838","Water and Sewer Commission","Vehicles","Diesel",2016,591
+"839","Water and Sewer Commission","Vehicles","Diesel",2017,361
+"840","Water and Sewer Commission","Vehicles","Diesel",2018,361
+"841","Water and Sewer Commission","Vehicles","Gasoline",2005,619
+"842","Water and Sewer Commission","Vehicles","Gasoline",2006,597
+"843","Water and Sewer Commission","Vehicles","Gasoline",2007,628
+"844","Water and Sewer Commission","Vehicles","Gasoline",2008,621
+"845","Water and Sewer Commission","Vehicles","Gasoline",2009,589
+"846","Water and Sewer Commission","Vehicles","Gasoline",2010,619
+"847","Water and Sewer Commission","Vehicles","Gasoline",2011,586
+"848","Water and Sewer Commission","Vehicles","Gasoline",2012,562
+"849","Water and Sewer Commission","Vehicles","Gasoline",2013,555
+"850","Water and Sewer Commission","Vehicles","Gasoline",2014,564
+"851","Water and Sewer Commission","Vehicles","Gasoline",2015,590
+"852","Water and Sewer Commission","Vehicles","Gasoline",2016,554
+"853","Water and Sewer Commission","Vehicles","Gasoline",2017,598
+"854","Water and Sewer Commission","Vehicles","Gasoline",2018,677
+"855","Water and Sewer Commission","Vehicles","Biodiesel",2018,510
